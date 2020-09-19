@@ -4,3 +4,4 @@
 
 [https://gpascal22.github.io/simpleBudgetApp/](https://gpascal22.github.io/simpleBudgetApp/)
 
+![budgetApp](https://user-images.githubusercontent.com/18146915/93657121-5feea300-f9f5-11ea-954c-3134bc3a2418.jpg)
