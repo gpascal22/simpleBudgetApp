@@ -1,0 +1,15 @@
+{
+  "name": "budgetmgmt",
+  "version": "1.0.0",
+  "description": "Simple Budget app",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Pascal Gautam",
+  "license": "ISC",
+  "homepage": "https://gpascal22.github.io/simplebudgetapp",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
