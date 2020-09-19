@@ -2,7 +2,7 @@
 
 ## This is a simple monthly budgeting app. Feel free to use following the link below.
 
-[https://gpascal22.github.io/simpleBudgetApp/](https://gpascal22.github.io/simpleBudgetApp/)
+[https://gpascal22.github.io/Simple-Budget-App/](https://gpascal22.github.io/Simple-Budget-App/)
 
 ### Here is a screenshot.
 
